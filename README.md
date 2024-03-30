@@ -16,10 +16,10 @@ my bad i didn't upload the application file, i placed the drive link to the appl
 
   ## Working software before converting into application
   ![1](https://github.com/satyayannam/billsat/assets/71513870/46f35ded-a264-4cee-9901-edbba43f08a7)
-<img width="960" alt="2" src="https://github.com/satyayannam/billsat/assets/71513870/5399d6a3-0741-4e67-8899-066d4ddafc4f">
-![3](https://github.com/satyayannam/billsat/assets/71513870/79a9f6b3-df61-4333-a166-f5d9429ad776)
-![4](https://github.com/satyayannam/billsat/assets/71513870/91c95314-e209-4ca0-ab84-36806d0c51db)
-![5](https://github.com/satyayannam/billsat/assets/71513870/ceb282ba-88bc-4680-8eb6-e2e3c0c7476b)
+  ![21](https://github.com/satyayannam/billsat/assets/71513870/86026d43-aa25-4577-8847-6cc79459bf16)
+  ![3](https://github.com/satyayannam/billsat/assets/71513870/79a9f6b3-df61-4333-a166-f5d9429ad776)
+  ![4](https://github.com/satyayannam/billsat/assets/71513870/91c95314-e209-4ca0-ab84-36806d0c51db)
+  ![5](https://github.com/satyayannam/billsat/assets/71513870/ceb282ba-88bc-4680-8eb6-e2e3c0c7476b)
 
 ## drive link for the application
 

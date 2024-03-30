@@ -1,5 +1,5 @@
 # Billsat v0.1
-my bad i didn't upload the application file, i placed the drive link to the application folder which is working perfectly fine, make sure to user it.
+my bad i didn't upload the application file, i placed the drive link to the application folder which is working perfectly fine, make sure to use it.
 
 ## Features
 
